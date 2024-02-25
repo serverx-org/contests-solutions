@@ -11,4 +11,7 @@
     <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img nth_fibonacci_py" width=100px height=60px></kbd></a>
     <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img pair_dragons_py" width=100px height=60px></kbd></a>
     <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img power_of_negative_numbers_py" width=100px height=60px></kbd></a>
+    <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img power_of_negative_numbers_py" width=100px height=60px></kbd></a>
+    <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img power_of_negative_numbers_py" width=100px height=60px></kbd></a>
+    <a href="/"><kbd><img src="./images/img.png" title="gautamankoji" alt="Img power_of_negative_numbers_py" width=100px height=60px></kbd></a>
 </div>
