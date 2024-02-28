@@ -4,7 +4,7 @@ This repository covers the solutions to the Vignan Challenges conducted by the V
 
 ### [**VIGNAN CHALLENGE 19**](./vignan-challenge-19/)
 
-#### <a target="_blank" href="https://github.com/gautamankoji">• Approach 1</a>: Authored by <a target="_blank" href="https://github.com/gautamankoji">@gautamankoji</a>
+#### <a target="_blank" href="./vignan-challenge-19%2Fchallenge-19-gatamankoji">• Approach 1</a>: Authored by <a target="_blank" href="https://github.com/gautamankoji">@gautamankoji</a>
 
 <div align="center">
     <a href="./vignan-challenge-19/challenge-19-gatamankoji/problems/cnt_family_members.py"><kbd><img src="./vignan-challenge-19/challenge-19-gatamankoji/images/count_of_family_members_py.jpeg" title="1. Count of Family Members | gautamankoji" alt="Img count_of_family_members_py" width=100px height=60px></kbd></a>
