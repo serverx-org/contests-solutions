@@ -2,7 +2,7 @@
 
 This repository covers the solutions to the Vignan Challenge conducted by the Vignan's Institute of Information Technology, Viag India.
 
-### [**VIGNAN CHALLENGE 19**](./challenge-19/README.md)
+### [**VIGNAN CHALLENGE 19**](./vignan-challenge-19/README.md)
 
 #### <a target="_blank" href="https://github.com/gautamankoji">• Approach 1</a>: Authored by <a target="_blank" href="https://github.com/gautamankoji">@gautamankoji</a>
 
