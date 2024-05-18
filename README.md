@@ -1,6 +1,6 @@
 # VIGNAN-CHALLENGES
 
-This repository covers the solutions to the Vignan Challenges conducted by the Vignan's Institute of Information Technology, Viag India.
+This repository covers the solutions to the Vignan Challenges conducted by the Vignan's Institute of Information Technology, Vizag India.
 
 ### [**VIGNAN CHALLENGE 19**](./vignan-challenge-19/)
 
