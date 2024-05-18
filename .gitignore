@@ -1,0 +1,14 @@
+*.exe
+*.bin
+.cph/
+*personel-notes.md
+*test.c
+*test.py
+*test.cpp
+*test1.c
+*test1.c
+*test1.py
+*test2.py
+*test1.cpp
+*test2.cpp
+vignan-contest-solutions-draft/
